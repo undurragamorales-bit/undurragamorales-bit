@@ -1,165 +1,168 @@
-# <div align="center">⚡ José Luis Undurraga</div>
+<div align="center">
+
+# ⚡ José Luis Undurraga
+
+### Electrical Engineer • MBA • Industrial AI Engineer
+
+### *Building intelligent solutions for industrial systems*
+
+---
+
+**Bridging Engineering, Data and Artificial Intelligence**
+
+*20+ years of engineering experience. Now applying Artificial Intelligence to transform industrial operations.*
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 👨‍💼 About Me
+
+I am an Electrical Engineer with an MBA and more than 20 years of experience in industrial engineering.
+
+Throughout my career I have specialized in:
+
+* Medium Voltage Systems
+* Industrial Power Distribution
+* Industrial Maintenance
+* Engineering Projects
+* Operations Management
+* Data Analysis
+
+Today I combine that experience with Artificial Intelligence, Cloud Computing and Automation to develop practical solutions for industrial environments.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Current Mission
+
+Design intelligent solutions that combine:
+
+⚡ Engineering
+
+📊 Data
+
+🤖 Artificial Intelligence
+
+☁️ Cloud Computing
+
+🔄 Automation
+
+to improve industrial decision-making, operational efficiency and asset reliability.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Focus
+
+<table>
+
+<tr>
+<td>🤖 AI Engineering</td>
+<td>🧠 LLM Applications</td>
+</tr>
+
+<tr>
+<td>📚 RAG Systems</td>
+<td>🤖 AI Agents</td>
+</tr>
+
+<tr>
+<td>☁️ Oracle Cloud Infrastructure</td>
+<td>🐳 Docker</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>🐘 PostgreSQL</td>
+</tr>
+
+<tr>
+<td>🏗️ Terraform</td>
+<td>⚙️ Automation</td>
+</tr>
+
+</table>
+
+---
+
+## ⚡ Engineering Background
+
+🟧 Medium Voltage Systems
+
+🟧 Industrial Electrical Distribution
+
+🟧 Industrial Maintenance
+
+🟧 Engineering Project Management
+
+🟧 Data Analytics
+
+🟧 Process Optimization
+
+🟧 Reliability Engineering
+
+---
+
+## 🌱 Professional Growth
+
+Currently expanding my expertise in:
+
+* Artificial Intelligence
+* Multi-Agent Systems
+* Oracle Cloud Architecture
+* MLOps
+* LLM Engineering
+* Battery Energy Storage Systems (BESS)
+* Utility-Scale Photovoltaic Systems
+* Industrial AI Applications
+
+---
+
+## 📂 Building
+
+✔ AI for Industrial Engineering
+
+✔ Intelligent Document Processing
+
+✔ AI Agents
+
+✔ Oracle Cloud Labs
+
+✔ Data Analytics Projects
+
+✔ Industrial Automation Tools
+
+---
 
 <div align="center">
 
-### Electrical Engineer • MBA • AI & Cloud Engineer
+## 💡 Philosophy
 
-### **Bridging Electrical Engineering and Artificial Intelligence**
-
-*20+ years solving industrial electrical challenges. Now building AI-powered solutions for the energy sector.*
+> **Technology creates value when it solves real industrial problems.**
 
 </div>
 
 ---
 
-# 👋 About Me
+<div align="center">
 
-I'm an Electrical Engineer with an MBA and more than 20 years of experience in industrial electrical engineering, operations, maintenance and engineering projects.
-
-My professional background is focused on **medium-voltage electrical systems**, **industrial power distribution**, **industrial maintenance**, **project engineering**, and **data analysis** for technical decision-making.
-
-Today I'm expanding that experience into **Artificial Intelligence**, **Cloud Computing**, and **Automation**, developing solutions that combine engineering knowledge with modern AI technologies.
-
-My goal is to help transform the energy sector through intelligent, data-driven solutions.
-
----
-
-# ⚡ Core Expertise
-
-### Electrical Engineering
-
-* Medium Voltage Systems
-* Industrial Power Distribution
-* Industrial Maintenance
-* Electrical Engineering Projects
-* Operations Management
-* Reliability Engineering
-* Root Cause Analysis
-* Asset Management
-
-### Data & Analytics
-
-* Data Analysis
-* KPI Development
-* Process Optimization
-* Operational Reporting
-* Technical Decision Support
-
----
-
-# 🚀 Currently Expanding Into
-
-* 🤖 Artificial Intelligence
-* 🧠 Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents
-* ☁️ Oracle Cloud Infrastructure (OCI)
-* 🐍 Python
-* PostgreSQL
-* Docker
-* Terraform
-* MLOps
-
-I'm also deepening my knowledge of Battery Energy Storage Systems (BESS), utility-scale photovoltaic systems and electricity markets as part of my long-term professional development.
-
----
-
-# 💻 Technology Stack
-
-### Programming
-
-* Python
-* SQL
-* HTML
-* JavaScript
-
-### Artificial Intelligence
-
-* OpenAI
-* LangChain
-* Ollama
-* LM Studio
-* Gemini
-* Groq
-* Cohere
-
-### Cloud & DevOps
-
-* Oracle Cloud Infrastructure
-* Docker
-* Linux
-* Git
-* GitHub
-
-### Databases
-
-* PostgreSQL
-
----
-
-# 📂 Current Projects
-
-* 🤖 AI Agents
-* 📚 RAG Applications
-* ☁️ Oracle Cloud Labs
-* 📊 Data Analytics
-* ⚡ Industrial Engineering Solutions
-* 🔋 Energy Storage Research
-* 📄 Intelligent Document Processing
-
----
-
-# 🎯 Professional Vision
-
-I believe the future of engineering will be driven by the combination of:
-
-* Electrical Engineering
-* Artificial Intelligence
-* Cloud Computing
-* Data Analytics
-* Intelligent Automation
-
-My mission is to build practical solutions that improve the reliability, efficiency and sustainability of modern industrial and energy systems.
-
----
-
-# 🌱 Learning Roadmap – 2026
-
-* Multi-Agent Systems
-* Advanced RAG
-* Oracle Cloud Architecture
-* Kubernetes
-* Terraform
-* LLMOps
-* MLOps
-* AI Applications for Energy
-
----
-
-# 📈 GitHub
-
-This GitHub profile documents my transition from traditional engineering to Artificial Intelligence through practical, real-world projects.
-
-Every repository represents something I have learned, built or improved.
-
----
-
-# 📫 Connect
+### 🤝 Let's Connect
 
 💼 LinkedIn
 
-**[www.linkedin.com/in/undurragajl](http://www.linkedin.com/in/undurragajl)**
+**linkedin.com/in/undurragajl**
 
 📧
 
 **[undurragamorales@gmail.com](mailto:undurragamorales@gmail.com)**
-
----
-
-<div align="center">
-
-## ⚡ Engineering Experience + Artificial Intelligence
-
-### *Building the future of energy, one project at a time.*
 
 </div>
