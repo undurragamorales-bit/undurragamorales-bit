@@ -3,17 +3,13 @@
 </p>
 <div align="center">
 
-# ⚡ José Luis Undurraga
+<div align="center">
 
-### Electrical Engineer • MBA • Industrial AI Engineer
+# ⚡ Industrial AI Engineer
 
-### *Building intelligent solutions for industrial systems*
+### *Where Engineering Meets Artificial Intelligence*
 
----
-
-**Bridging Engineering, Data and Artificial Intelligence**
-
-*20+ years of engineering experience. Now applying Artificial Intelligence to transform industrial operations.*
+**Electrical Engineer • MBA • 20+ Years of Engineering Experience**
 
 </div>
 
@@ -21,136 +17,162 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 👨‍💼 About Me
+## 👨 EXPERIENCE
 
-I am an Electrical Engineer with an MBA and more than 20 years of experience in industrial engineering.
-
-Throughout my career I have specialized in:
-
-* Medium Voltage Systems
-* Industrial Power Distribution
-* Industrial Maintenance
-* Engineering Projects
-* Operations Management
-* Data Analysis
-
-Today I combine that experience with Artificial Intelligence, Cloud Computing and Automation to develop practical solutions for industrial environments.
+- ⚡ Medium Voltage Systems
+- 🏭 Industrial Power Distribution
+- 🔧 Industrial Maintenance
+- 📐 Engineering Projects
+- 📊 Data Analytics
+- 📈 Process Optimization
+- ⚙️ Operations Management
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎯 Current Mission
+## 🎯 CURRENT MISSION
 
-Design intelligent solutions that combine:
+Design intelligent solutions for industrial environments by combining:
 
-⚡ Engineering
-
-📊 Data
-
-🤖 Artificial Intelligence
-
-☁️ Cloud Computing
-
-🔄 Automation
-
-to improve industrial decision-making, operational efficiency and asset reliability.
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- ☁️ Cloud Computing
+- 🔄 Automation
+- 🧠 Large Language Models
+- ⚡ Engineering Expertise
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🚀 Current Focus
+# 🧪 Industrial AI Laboratory
 
 <table>
 
 <tr>
-<td>🤖 AI Engineering</td>
-<td>🧠 LLM Applications</td>
+
+<td width="50%" valign="top">
+
+## 🧠 AI Agents
+
+Autonomous agents for industrial automation, engineering support and decision-making.
+
+**Status:** 🟡 Building
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Intelligent Documents
+
+RAG solutions for technical documentation, procedures and engineering knowledge.
+
+**Status:** 🟡 Building
+
+</td>
+
 </tr>
 
 <tr>
-<td>📚 RAG Systems</td>
-<td>🤖 AI Agents</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Power Systems
+
+Tools for medium-voltage engineering, industrial distribution, maintenance and electrical analysis.
+
+**Status:** 🟢 Active
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Data Analytics
+
+Python applications for KPI reporting, operational dashboards and engineering insights.
+
+**Status:** 🟢 Active
+
+</td>
+
 </tr>
 
 <tr>
-<td>☁️ Oracle Cloud Infrastructure</td>
-<td>🐳 Docker</td>
-</tr>
 
-<tr>
-<td>🐍 Python</td>
-<td>🐘 PostgreSQL</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🏗️ Terraform</td>
-<td>⚙️ Automation</td>
+## ☁️ Cloud Infrastructure
+
+Oracle Cloud Infrastructure, Docker, Terraform and Linux environments.
+
+**Status:** 🟡 Building
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔋 Energy Systems
+
+Research and AI applications for BESS, photovoltaic systems and electricity markets.
+
+**Status:** 🔵 Research
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
-## ⚡ Engineering Background
-
-🟧 Medium Voltage Systems
-
-🟧 Industrial Electrical Distribution
-
-🟧 Industrial Maintenance
-
-🟧 Engineering Project Management
-
-🟧 Data Analytics
-
-🟧 Process Optimization
-
-🟧 Reliability Engineering
-
 ---
 
-## 🌱 Professional Growth
+# 🚀 Currently Building
 
-Currently expanding my expertise in:
+<table>
+<tr>
 
-* Artificial Intelligence
-* Multi-Agent Systems
-* Oracle Cloud Architecture
-* MLOps
-* LLM Engineering
-* Battery Energy Storage Systems (BESS)
-* Utility-Scale Photovoltaic Systems
-* Industrial AI Applications
+<td width="50%" valign="top">
 
----
+### 🤖 Artificial Intelligence
 
-## 📂 Building
+- AI for Industrial Engineering
+- Intelligent Document Processing
+- AI Agents
+- Industrial Automation Tools
 
-✔ AI for Industrial Engineering
+</td>
 
-✔ Intelligent Document Processing
+<td width="50%" valign="top">
 
-✔ AI Agents
+### ☁️ Cloud & Data
 
-✔ Oracle Cloud Labs
+- Oracle Cloud Labs
+- Data Analytics Projects
+- Infrastructure Automation
+- Engineering Workflows
 
-✔ Data Analytics Projects
+</td>
 
-✔ Industrial Automation Tools
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 💡 Philosophy
+# 💡 Engineering Philosophy
 
-> **Technology creates value when it solves real industrial problems.**
+> **Technology creates value only when it solves real industrial problems.**
+>
+> *My goal is to combine engineering expertise, data analytics and artificial intelligence to build practical solutions for industry.*
 
 </div>
 
@@ -158,14 +180,16 @@ Currently expanding my expertise in:
 
 <div align="center">
 
-### 🤝 Let's Connect
+# 🤝 Let's Connect
 
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/undurragajl">
+  <img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Luis%20Undurraga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**linkedin.com/in/undurragajl**
+<br><br>
 
-📧
-
-**[undurragamorales@gmail.com](mailto:undurragamorales@gmail.com)**
+<a href="mailto:undurragamorales@gmail.com">
+  <img src="https://img.shields.io/badge/Email-undurragamorales%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
