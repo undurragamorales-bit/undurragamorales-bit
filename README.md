@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="asset/banner.png" alt="José Luis Undurraga Banner" width="100%">
+</p>
 <div align="center">
 
 # ⚡ José Luis Undurraga
